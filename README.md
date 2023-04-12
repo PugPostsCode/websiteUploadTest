@@ -1,2 +1,2 @@
 # websiteUploadTest
-testing for a school assignmnt
+testing for a school assignment
